@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @courtneygrace40
-- 👀 I’m interested in computer science!
-- 🌱 I’m currently learning Java and C++
+- 👀 I’m interested in computer science and data science!
+- 🌱 I’m currently learning R
 - 😄 Pronouns: she/her
 
 <!---
