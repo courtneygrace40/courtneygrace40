@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @courtneygrace40
 - 👀 I’m interested in computer science and data science!
-- 🌱 I’m currently learning R
+- 🌱 I’m currently building a prison break game with my software engineering group for my capstone at Simmons University.
 - 😄 Pronouns: she/her
 
 <!---
