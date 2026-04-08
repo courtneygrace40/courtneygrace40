@@ -1,7 +1,7 @@
 # Hi there! I'm Courtney! 👋
 
 ### 🚀 About Me
-I am a software developer and student currently focusing on **Java** and **Python** development. I enjoy building applications that solve real-world problems, ranging from backend logic to interactive UI components. When I'm not coding, you can usually find me planning my next trip to a theme park or following the latest sports scores.
+I am a software developer and student currently focusing on **Java** and **Python** development. I enjoy building applications that solve real-world problems, ranging from backend logic to interactive UI components. When I'm not coding, you can usually find me planning my next trip to a new country or following the latest sports scores.
 
 - 🔭 I’m currently working on a **prison break game** with my software engineering group for my senior capstone project
 - 🌱 I’m currently learning **Large Language Model (LLM) architecture** and **advanced machine learning techniques** 
